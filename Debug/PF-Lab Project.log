@@ -1,0 +1,11 @@
+﻿  PF-Lab Project.cpp
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(803,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(1351,9): warning C4101: 'size': unreferenced local variable
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(1392,11): warning C4101: 'Ans': unreferenced local variable
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(1881,7): warning C4102: 'again1': unreferenced label
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(1868,12): warning C4101: 'userMoney': unreferenced local variable
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(159): error C4700: uninitialized local variable 'avg' used
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(168): error C4700: uninitialized local variable 'avg' used
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(801): warning C4717: 'EqMotion': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(928): warning C4717: 'EqOscillations': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\Asad\Documents\PF-Lab Project\PF-Lab Project.cpp(874): warning C4717: 'EqGravity': recursive on all control paths, function will cause runtime stack overflow
